@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">recyleView</string>
+    <string-array name="Batik">
+        <item>Jagung Miji Emas</item>
+        <item>Mliwis Mukti</item>
+        <item>Pari Sumilak</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 150.000</item>
+        <item>Rp. 170.000</item>
+        <item>Rp. 155.000</item>
+    </string-array>
+</resources>
